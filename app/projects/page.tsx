@@ -14,11 +14,11 @@ export default function Projects() {
       tech: ["HTML", "CSS", "TYPESCRIPT"]
     },
     {
-      title: "Nike Clone",
+      title: "Nike Figma Website",
       description: "Nike Clone Website with modern UI/UX design.",
       image: "/nike.png",
       github: "https://github.com/NISHAT-HERE/Nike-clone",
-      demo: "https://nike-clone-nishat.vercel.app",
+      demo: "https://nike-figma-website.vercel.app",
       tech: ["NEXT.JS", "TAILWIND CSS"]
     },
     {
