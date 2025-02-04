@@ -8,7 +8,7 @@ import { Cursor } from "@/components/cursor/cursor";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "My Portfolio",
+  title: "*NISHAT's* Portfolio",
   description: "Personal portfolio website showcasing my work and skills",
 };
 
